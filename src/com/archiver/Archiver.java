@@ -5,7 +5,7 @@ import com.archiver.exception.WrongZipFileException;
 import java.io.IOException;
 
 public class Archiver {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         Operation operation = null;
         do {
             try {
