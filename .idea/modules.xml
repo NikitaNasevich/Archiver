@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Archiver.iml" filepath="$PROJECT_DIR$/.idea/Archiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/com/achiver/console_achiver_with_swing/src/com/achiver/console_achiver_with_swing.iml" filepath="$PROJECT_DIR$/src/com/achiver/console_achiver_with_swing/src/com/achiver/console_achiver_with_swing.iml" />
+    </modules>
+  </component>
+</project>
